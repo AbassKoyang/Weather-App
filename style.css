@@ -103,6 +103,9 @@ body{
 }
 
 @media screen and (min-width: 320px) and (max-width: 576px){
+    .card{
+        padding: 40px 25px;
+    }
     .card .search__bar input{
         padding: 10px 25px;
         height: 60px;
